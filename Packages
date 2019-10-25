@@ -56,16 +56,16 @@ Name: 66 Cydia
 Version: 0.9-1
 Architecture: iphoneos-arm
 Filename: ./debs/66cydia.deb
-MD5sum:80789864c13f4e55f1b16f368026396e
-SHA1:a4895e88913da7de4b7770ff8b69c227258fb6c8
-SHA256:27ae0b12211054559e90d7b39ba2d89517659bc6f30e2382675b5096630a73b0
-Size:1247102
-Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+MD5sum:16f9f45423af7f88ef9db1963c2dae36
+SHA1:adb8e2bf0a1abd77e32b93fb214165bc02f3656f
+SHA256:377c81c340278eba9c7a8d4e62c8e760f1a3e5f462891969de1f8f7a5d264593
+Size:1246922
+Depends: firmware (>= 5.0), mobilesubstrate
 Description: 6QQ
 Section: System
 Maintainer: 6QQ <6QQ@gmail.com>
 Author: 6QQ
-Icon: file:///Applications/Cydia.app/Sections/System.png
+Icon: ms.png
 
 Package: com.6qq.hk112-141xyz
 Name: HK112-141 XYZ
