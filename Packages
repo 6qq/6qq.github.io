@@ -1,0 +1,123 @@
+Package: com.6qq.vinapvn
+Name: Ví Nạp VN
+Version: 2.1
+Architecture: iphoneos-arm
+Filename: ./debs/vinapvn.deb
+MD5sum:47b7931a60d3802bfaa382074911f069
+SHA1:d5ea42497722c103f03563e42918b9b6d5eafe68
+SHA256:ad1cf808061535c454fc040454b4c6876fc29b67609d5d2b9592389a7ee6f144
+Size:130212
+Description: 6QQ
+Section: System
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: 6QQ <6QQ@gmail.com>
+Author: 6QQ
+
+Package: com.6qq.vixavn
+Name: Ví Xả VN
+Version: 2.1
+Architecture: iphoneos-arm
+Filename: ./debs/vixavn.deb
+MD5sum:e77caec7ec5d64ace65eb80116174d6e
+SHA1:73689a021d01b01ff0ecafb004d8bb74513cd80c
+SHA256:fbe4a69a0fb4c8724fff1d02d16acaace63fdeff3a2714376eea8e6bb5a1deb1
+Size:119228
+Description: 6QQ
+Section: System
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: 6QQ <6QQ@gmail.com>
+Author: 6QQ
+
+Package: com.6qq.ok1912
+Name: OK 1912
+Version: 2.0.4
+Architecture: iphoneos-arm
+Filename: ./debs/ok1912.deb
+MD5sum:ce3fda8d2112007157e8292204356998
+SHA1:dd4931de065bf7b71d12733dcc8dfd1627e0baa1
+SHA256:1d1d8c56935452a00a4d945279f8e93a5b25874a11788c834c945fa8ccea0be9
+Size:1329604
+Description: 
+Section: System
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: 
+Replaces: 
+Priority: optional
+Architecture: iphoneos-arm
+Author: 6QQ
+dev: 
+Homepage: 
+Depiction: 
+Maintainer: 
+Icon: 
+
+Package: com.6qq.66cydia
+Name: 66 Cydia
+Version: 0.9-1
+Architecture: iphoneos-arm
+Filename: ./debs/66cydia.deb
+MD5sum:80789864c13f4e55f1b16f368026396e
+SHA1:a4895e88913da7de4b7770ff8b69c227258fb6c8
+SHA256:27ae0b12211054559e90d7b39ba2d89517659bc6f30e2382675b5096630a73b0
+Size:1247102
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Description: 6QQ
+Section: System
+Maintainer: 6QQ <6QQ@gmail.com>
+Author: 6QQ
+Icon: file:///Applications/Cydia.app/Sections/System.png
+
+Package: com.6qq.hk112-141xyz
+Name: HK112-141 XYZ
+Version: 0.9-1
+Architecture: iphoneos-arm
+Filename: ./debs/hk112-141xyz.deb
+MD5sum:e635cd1936530220af85310cba858145
+SHA1:102e60c71ade31f5f94a419764f12f3414f23dfa
+SHA256:deef54a1f458404a9c0520703c43d12edfedc96b6dd6b5ac94976de9f9e36084
+Size:1238146
+Depends: firmware (>= 5.0), mobilesubstrate
+Description: 6QQ
+Section: System
+Maintainer: 6QQ <6QQ@gmail.com>
+Author: 6QQ
+Icon: ms.png
+
+Package: com.6qq.longzhucj
+Name: Longzhucj
+Version: 0.2-10
+Architecture: iphoneos-arm
+Filename: ./debs/longzhucj.deb
+MD5sum:2b7a20f3127ef475af803bd1e43ddd0a
+SHA1:3fe7962a423be30c5b331f2df90a811b47805247
+SHA256:cdb3d0337a322c046737ec5de65033156df2b74021b2478333fd95b70b0231b6
+Size:1630814
+Description: 
+Section: System
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: 
+Replaces: 
+Priority: optional
+Architecture: iphoneos-arm
+Author: 6QQ
+dev: 
+Homepage: 
+Depiction: 
+Maintainer: 
+Icon:
+
+Package: com.dochungvip.gobilnyuan314
+Name: Gobiln Yuan314
+Version: 1.1.0
+Architecture: iphoneos-arm
+Filename: ./debs/gobilnyuan314.deb
+MD5sum:a8f5a09a02e738fa50958b502c56d9b6
+SHA1:24837bebe49bd8c5f5262f10f22335fae63beb8c
+SHA256:498ff1f6fdce7d39e3b18bb1e65c8fc512e1cbdb025f297db9b1c30554e00966
+Size:310156
+Depends: firmware (>= 5.0), mobilesubstrate
+Description: 6QQ
+Section: System
+Maintainer: 6QQ
+Author: 6QQ
+Icon: file:///Applications/Cydia.app/Sections/系统.png
