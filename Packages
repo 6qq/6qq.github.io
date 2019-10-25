@@ -33,10 +33,10 @@ Name: OK 1912
 Version: 2.0.4
 Architecture: iphoneos-arm
 Filename: ./debs/ok1912.deb
-MD5sum:ce3fda8d2112007157e8292204356998
-SHA1:dd4931de065bf7b71d12733dcc8dfd1627e0baa1
-SHA256:1d1d8c56935452a00a4d945279f8e93a5b25874a11788c834c945fa8ccea0be9
-Size:1329604
+MD5sum:e36073c4e108b3aa133986b3997a4633
+SHA1:357ff51b8b9d17ebfa15146c5a221f136105224b
+SHA256:0b76c1bd4252751ab8e01b91d3dce8f6a6a1baad3b887ab4b33a10aa37f41991
+Size:1329610
 Description: 
 Section: System
 Depends: firmware (>= 5.0), mobilesubstrate
