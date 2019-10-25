@@ -30,13 +30,13 @@ Author: 6QQ
 
 Package: com.6qq.ok1912
 Name: OK 1912
-Version: 2.0.4
+Version: 2.0.2
 Architecture: iphoneos-arm
 Filename: ./debs/ok1912.deb
-MD5sum:9114e0eca48a3ae59e9d5ff9dcd5de24
-SHA1:8f25c43801bf52c80014b856e57cb0bba5cdbb48
-SHA256:01bbb4bb0e65aaa457514d34f8f22f712a1a570c0a54798c59aafaed42a9ef2c
-Size:1329612
+MD5sum:e1fc05a8d8701d3755f23f522b0a438b
+SHA1:57238575c81f734cd856ab3ae318b197d406e51d
+SHA256:60d9259c6ab219c78ea2063558b09d3ea2242c325a2092a8749e34f5f50a22d9
+Size:1344762
 Description: 
 Section: System
 Depends: firmware (>= 5.0), mobilesubstrate
