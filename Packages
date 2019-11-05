@@ -121,3 +121,40 @@ Section: System
 Maintainer: 6QQ
 Author: 6QQ
 Icon: file:///Applications/Cydia.app/Sections/系统.png
+
+Package: com.6qq.icleanerpro
+Name: iCleaner Pro (ios 10.3-12)
+Description: The first real iOS system cleaner & optimizer
+Author: Ivano Bilenchi <support@ib-soft.net>
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Version: 7.7.5
+Architecture: iphoneos-arm
+Filename: ./debs/icleanerpro.deb
+MD5sum:6b148c73c07915127ea3aacdc4aaef83
+SHA1:68a0c399e4cd12ebfb5fdf7a7a0fbda993f33eef
+SHA256:b60c18a5eca1afacee7167d2d5c43e912bd8214212c95ddd8ea539d43f64fe75
+Size:9921692
+Homepage: http://ib-soft.net/icleaner
+Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+Section: Utilities
+Depends: firmware (>= 4.0), findutils, shell-cmds, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Icon: file:///Applications/iCleaner.app/Icon.png
+
+Package: com.6qq.cracktool4
+Name: CrackTool4 (iOS 12)
+Version: 4.0~beta9c
+Architecture: iphoneos-arm
+Filename: ./debs/cracktool4.deb
+MD5sum:345ba0f95aaf303bb94f2cc2c8a808fa
+SHA1:3dfab699f9560076adc938f5bcb1bd5a58e75ae4
+SHA256:b0affe497dd9049bb209a4be716b02584ca2f69cea9beb9334f391721a8ef9e0
+Size:516642
+Description: Crack Tweaks on one click
+Homepage: http://twitter.com/ijulioverne
+Maintainer: Julio
+Author: julioverne
+Depends: ldid (>= 2.1.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
+Section: Utilities
+Depiction: http://julio.hackyouriphone.org/description.html?id=com.julioverne.cracktool4
