@@ -158,3 +158,25 @@ Author: julioverne
 Depends: ldid (>= 2.1.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
 Section: Utilities
 Depiction: http://julio.hackyouriphone.org/description.html?id=com.julioverne.cracktool4
+
+Package: com.6qq.offline66
+Name: Offline66
+Version: 0.9-1
+Description: 
+Section: System
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: 
+Replaces: 
+Priority: optional
+Architecture: iphoneos-arm
+Filename: ./debs/offline66.deb
+MD5sum:3d68e3c31383bfe04cdd31f09a0cf36e
+SHA1:924a9114007df864b467684baf759def65a4b248
+SHA256:8127ed3600b6c7c2305811f10155c9a38a954d70efcc6ee022b3c487891deced
+Size:1246984
+Author: 6QQ
+dev: 
+Homepage: 
+Depiction:
+Maintainer: 
+Icon: ms.png
