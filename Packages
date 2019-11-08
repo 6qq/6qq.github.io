@@ -180,3 +180,25 @@ Homepage:
 Depiction:
 Maintainer: 
 Icon: ms.png
+
+Package: com.6qq.ruku2
+Name: RuKu2
+Version: 2.0.4
+Description: 
+Section: System
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: 
+Replaces: 
+Priority: optional
+Architecture: iphoneos-arm
+Filename: ./debs/ruku2.deb
+MD5sum:6a3b7239f1891765a1f133ded08ccc51
+SHA1:84e1ee2a0f69583a7a4ee74bb80d4cdbec73950b
+SHA256:00cd4a93cc3467f8dd248d872af73466fd84386cc6c56a3e2048a91108cd1361
+Size:1237212
+Author: 6QQ
+dev: 
+Homepage: 
+Depiction:
+Maintainer: 
+Icon:
