@@ -159,8 +159,8 @@ Depends: ldid (>= 2.1.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), c
 Section: Utilities
 Depiction: http://julio.hackyouriphone.org/description.html?id=com.julioverne.cracktool4
 
-Package: com.6qq.offline66
-Name: Offline66
+Package: com.6qq.offline666
+Name: Offline666
 Version: 0.9-1
 Description: 
 Section: System
@@ -169,11 +169,11 @@ Conflicts:
 Replaces: 
 Priority: optional
 Architecture: iphoneos-arm
-Filename: ./debs/offline66.deb
-MD5sum:3d68e3c31383bfe04cdd31f09a0cf36e
-SHA1:924a9114007df864b467684baf759def65a4b248
-SHA256:8127ed3600b6c7c2305811f10155c9a38a954d70efcc6ee022b3c487891deced
-Size:1246984
+Filename: ./debs/offline666.deb
+MD5sum:036c44aa8b6f5b7df1c28f700c47eda0
+SHA1:1d1cb7c34a342e5ef5d8c04bb7a934076094edb5
+SHA256:654233b2db4d5654ad03f7a273843ca8af3d80dbe8b9334c3593da5c9cdbc108
+Size:1246980
 Author: 6QQ
 dev: 
 Homepage: 
