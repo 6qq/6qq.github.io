@@ -202,3 +202,18 @@ Homepage:
 Depiction:
 Maintainer: 
 Icon:
+
+Package: com.6qq.dcrukulv
+Name: DC RuKu LV
+Version: 0.0.1-38
+Architecture: iphoneos-arm
+Filename: ./debs/dcrukulv.deb
+MD5sum:9a183724bdd8d9ee82b4105bae331aa3
+SHA1:4dd6e7951de8a21d8284af3c712fa4313dee0b31
+SHA256:eb2777a2dcee830bb6836bfd537152651a32fab0e41627743cff4cd7ce086b0c
+Size:79330
+Description: 6QQ
+Section: Tweaks
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: 6QQ <6QQ@gmail.com>
+Author: 6QQ
