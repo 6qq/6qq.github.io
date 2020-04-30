@@ -217,3 +217,20 @@ Section: Tweaks
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 Maintainer: 6QQ <6QQ@gmail.com>
 Author: 6QQ
+
+Package: com.6qq.dcumuu
+Name: DC UMUU
+Version: 1.0.1
+Architecture: iphoneos-arm
+Filename: ./debs/dcumuu.deb
+MD5sum:8c28cdc20c412c7b07f71712ec2d1a73
+SHA1:77d95f36357f535e2d4d82c6c7cc80acfb621038
+SHA256:68ace652c530af818b595f2e8a9b89f9e910f303d5c447fa2213b36fdca24e81
+Size:312632
+Description: 6QQ
+Section: Tweaks
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: 6QQ <6QQ@gmail.com>
+Author: 6QQ
+Sponsor: 6QQ
+
