@@ -234,3 +234,20 @@ Maintainer: 6QQ <6QQ@gmail.com>
 Author: 6QQ
 Sponsor: 6QQ
 
+Package: com.6qq.dcxyz
+Name: DC XYZ
+Version: 2.1.9-1
+Architecture: iphoneos-arm
+Filename: ./debs/dcxyz.deb
+MD5sum:317767af6881e8695b545cfc30cf1d10
+SHA1:c333c4b27bffe0efe9393a0d992c49eb0c720cde
+SHA256:753d8ff5247d1dd3d0e709ef86e32950ec88ac17c5da98bc39b1cbc5a68f583e
+Size:1301806
+Description: 6QQ
+Section: Tweaks
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: 6QQ <6QQ@gmail.com>
+Author: 6QQ
+Sponsor: 6QQ
+
+
