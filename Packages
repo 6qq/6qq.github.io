@@ -250,4 +250,20 @@ Maintainer: 6QQ <6QQ@gmail.com>
 Author: 6QQ
 Sponsor: 6QQ
 
+Package: com.6qq.dcwallets
+Name: DC Wallets
+Version: 2.0
+Architecture: iphoneos-arm
+Filename: ./debs/dcwallets.deb
+MD5sum:920163e9701ee241a9b0a57c579fc150
+SHA1:50b1b241505146969ad590b1e2f9788d033badb9
+SHA256:0960725f83f7385b9f7eb19f8fd1354aff5675bd6a74edafe92d5c2b4a1a4d7b
+Size:130196
+Description: 6QQ
+Section: System
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: 6QQ <6QQ@gmail.com>
+Author: 6QQ
+Sponsor: 6QQ
+
 
