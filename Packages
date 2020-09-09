@@ -264,5 +264,18 @@ Section: System
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 Maintainer: 6QQ <6QQ@gmail.com>
 
-
+Package: com.6qq.dcprivate
+Name: DC Private
+Version: 1.0.0
+Architecture: iphoneos-arm
+Filename: ./debs/dcprivate.deb
+MD5sum:b7531ebb51024a856dbda52b7ae285a7
+SHA1:4059809a59ce8a4613eaff6fb6eb0ab6ce94d024
+SHA256:88f1e92e0f0fe8d8fe1ebfa17ee86b1ce46ff57535784112d523e6b2f3f956a2
+Size:82492
+Description: 6QQ
+Section: Tweaks
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: 6QQ <6QQ@gmail.com>
+Installed-Size: 256
 
