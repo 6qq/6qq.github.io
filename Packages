@@ -277,5 +277,22 @@ Description: 6QQ
 Section: Tweaks
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 Maintainer: 6QQ <6QQ@gmail.com>
+Author: 6QQ
 Installed-Size: 256
+
+Package: com.6qq.xadcprivate
+Name: Xả DC Private
+Version: 1.0.4
+Architecture: iphoneos-arm
+Filename: ./debs/xadcprivate.deb
+MD5sum:f4c6d13d77edbe53477a790403cddbe2
+SHA1:db784b5d629d26eb2d1027435c1f0e77a5b9b219
+SHA256:88b8e47ab5097e43abfb172447a6a63dcebb4b07415aa6fa1967f6b63a3ccd3c
+Size:33734
+Description: 6QQ <6QQ@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: 6QQ <6QQ@gmail.com>
+Author: 6QQ
+Installed-Size: 144
 
